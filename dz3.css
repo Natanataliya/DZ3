@@ -1,0 +1,50 @@
+
+
+.first {
+	background: #FF4500;
+	width: 45px;
+	height: 35px;
+	color: #FF4500;
+}
+.second{
+	background: #FF8C00;
+	width: 90px;
+	height: 35px;
+	
+}
+.third {
+	background: #0000CD;
+	width: 140px;
+	height: 35px;
+}
+.four{
+	background: #FF7F50;
+	width: 300px;
+	height: 120px;
+	text-align: center;
+	font-size: 235%;
+	line-height: 100px;
+	
+
+}
+.fifth{
+     background: #C0C0C0;
+     width: 530px;
+     height: 220px; 
+     padding-left: 6px;   
+
+}
+h1 {
+	font-family: sans-serif;
+	color: #8B4513;
+}
+h3 {
+   font-family: serif;
+   color: #D2691E;
+}
+a {
+	color: #008000;
+}
+
+
+
